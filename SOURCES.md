@@ -1,84 +1,113 @@
-# Sources — Wednesday 25 November 2026
+# Sources — Wednesday 25 November 2026 (v2)
 
 Every story on the front page was verified against reporting published on
 25 November 2026 (events that happened, or were first reported, that day).
-No event was invented. Where a story broke the day before, the page carries
-what was reported on the 25th itself.
+No event was invented. Items in the DATE CHECK strip are the ones left out
+because they belong to other days.
 
-## Lead story — Strait of Hormuz
+## Lead stories
 
-- Reuters (Dubai, 25 Nov): "Two oil tankers struck naval mines, exploded and
-  caught fire in the Strait of Hormuz on Wednesday, Iran's Revolutionary
-  Guards Navy said in a statement carried by state media." A third tanker
-  was reported hit later the same day; the US Virtual Embassy told US
-  citizens to leave Iran at once.
-  - https://krro.com/2026/11/25/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage/
-  - https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-Fresh-Tanker-Explosions-as-Hormuz-Attacks-Intensify.html
-  - https://tml.news/stories/iran-says-two-tankers-struck-mines-hormuz/
-  - https://lapresse.us/world/2026/11/25/iran-two-oil-tankers-have-struck-mines-in-the-strait-of-hormuz/
+- **US tariffs (USTR, 25 Nov):** Section 301 determinations on 14 economies
+  (China, EU, Japan, Korea, Taiwan, Switzerland, Bangladesh, Cambodia,
+  Indonesia, Malaysia, Thailand, Singapore, India, Vietnam). Proposed rates
+  15% (EU, Japan, Korea, Switzerland, Taiwan) to 35% (Vietnam); China up to
+  20%, India up to 25%, Bangladesh/Cambodia/Indonesia/Malaysia/Thailand up
+  to 18%. Nothing in force; comments due 5 Jan 2027, hearings from 25 Jan
+  2027. Sources: Lexology, Flexport, TBS News, JD Supra summaries of the
+  USTR announcement.
+- **Kospi crash (25 Nov):** KOSPI −6.16% to 4,697.51 (lowest since 13 Jan);
+  SK Hynix −11.05%, Samsung −9.87%; Taiex −4.8% (38,195.4), Nikkei −2.8%
+  (57,011.6), Hang Seng −1.1%, Shanghai −2.0%; SoftBank −14.8%. The exchange
+  paused program trading for five minutes. Sources: WSJ, Yonhap via
+  MoneyToday/TECHi, CNN, KED Global.
+- **Shenzhou-24 (25 Nov):** launched 00:18:52 UTC from Jiuquan, docked with
+  Tiangong's Tianhe forward port 03:56 UTC. Crew: Tang Hongbo (commander),
+  Wu Yi, and Pakistani payload specialist Muhammad Zeeshan Ali — first
+  Pakistani in orbit and first foreign astronaut aboard Tiangong; about a
+  week aboard, returns on Shenzhou-23. Sources: Wikipedia/Shenzhou 24,
+  Xinhua, NASA Spaceflight, China Manned Space Agency.
 
-## Ukraine — refineries and the Libyan strike
+## Illustrated stories 4–16
 
-- Ukrainian drones hit two Rosneft refineries (Syzran and Kuibyshev) in
-  Russia's Samara region overnight; one person killed.
-- Ukraine's SBU formally confirmed on 25 Nov that seven sea drones sank the
-  Russian corvette Merkury at Benghazi, Libya (attack on 22 Nov); two Libyan
-  soldiers died of wounds on 24 Nov; President Zelenskyy released footage.
-  - https://www.sevenlights.org/2026/11/23/russian-warship-sinks-benghazi-drone-attack/
-  - https://swedenherald.com/article/two-soldiers-die-after-ukrainian-attack-on-russian-warship-in-libya
-  - https://principia.news/e/2026-11-25
+- **Solomon Islands pact:** signed in Canberra 25 Nov by PMs Matthew Wale
+  and Anthony Albanese; Australia named "primary security partner"; A$740m
+  over 10 years (A$670m grants + A$70m loans); no foreign military bases;
+  China pact lapses early 2027. Sources: AAP, AFP, PINA.
+- **Volga refineries:** Ukrainian drones hit Syzran and Kuibyshev refineries
+  in Samara region overnight; one person killed. Sources: Kyiv Independent,
+  France 24.
+- **Femicide (UN Women/UNODC, 25 Nov):** 47,000 women and girls killed
+  intentionally by an intimate partner or family member in 2025 — 60% of
+  78,000 femicides; five an hour, 129 a day. 2026 Femicide Brief, released
+  for the International Day for the Elimination of Violence against Women.
+  Sources: UN Women, UNODC, UN News.
+- **UK energy cap (Ofgem, 25 Nov):** cap rises 26% from £1,723 to £2,166 a
+  year for a typical dual-fuel household from 1 Jan 2027 (+£443 a year);
+  Middle East conflict blamed for gas prices. Sources: Ofgem via TradingView
+  / Morningstar / The Times, MoneySavingExpert.
+- **Dhaka wage (25 Nov):** Minimum Wage Board votes 4–2 after ~12 hours of
+  talks ending ~2–4am: minimum wage Tk17,000/month (from Tk12,500, +36%),
+  effective 1 Dec; workers wanted Tk30,000; 481 factories halted. Sources:
+  TBS News, AFP, Hindu BusinessLine.
+- **Bogor gold mine:** heavy rain late Mon 23 Nov sent the Ciseureuh River
+  into a ~100 m unlicensed shaft in Bogor regency, West Java; by Wed
+  evening 9 bodies recovered, 17 believed trapped; 11 escaped; 325
+  rescuers. Sources: AP, CNN Indonesia, Basarnas.
+- **Cartagena siege:** armed men took ~30 hostages at an Éxito supermarket
+  in La Castellana on Tue 24 Nov; early Wed 25 Nov forces stormed the store,
+  killed one gunman, freed the remaining 20 unhurt. Sources: France 24, AP,
+  Colombia Reports.
+- **Hodeidah:** Saudi-led coalition jets struck Hodeidah after an
+  evacuation order; Saudi defences downed four Houthi drones. Source: SPA.
+- **Hormuz tankers (CLAIM):** IRGC Navy says two tankers struck naval mines
+  and caught fire early Wed 25 Nov on an "unauthorised route"; one a
+  supertanker with 2m+ barrels; no vessel names, flags or casualties given;
+  no independent confirmation. Sources: IRNA via OilPrice/TML News,
+  Reuters.
+- **Gaza:** dawn strike Wed 25 Nov on a Shati camp apartment killed Col.
+  Mohammad Abuelouf (Hamas internal security chief, northern Gaza), his
+  wife and two daughters; second such killing in 24 hours (Naeem Abu Nahel
+  killed Tue). Gaza toll 74,746, Health Ministry says. Sources: Reuters,
+  Xinhua, Al Jazeera.
+- **Cairo tanker fire:** tanker overturned on the Ring Road in Warraq, Giza,
+  at Wednesday rush hour (~18:00 local) and burst into flames; at least 31
+  killed, 21 injured, 27 vehicles burned. Sources: CNN, BBC, Egypt Health
+  Ministry.
+- **Phala Phala:** Western Cape High Court, unanimous, Wed 25 Nov, declared
+  the Section 89 independent panel report unlawful and set it aside in
+  full; parliamentary impeachment process collapses. Sources: Newsnote,
+  Daily Maverick, China Daily Asia.
+- **Netanyahu:** Jerusalem court urges prosecutors to rethink the Case 4000
+  bribery charge against the prime minister. Source: AP.
 
-## Markets — Asia tumbles, Dow tops 50,000
+## Also on Wednesday (17–55)
 
-- KOSPI plunged 6.16% (Samsung −9.9%, SK Hynix −11.1%), Nikkei fell 2.78%
-  (SoftBank −14.8%), Taiwan Taiex ~−5%; on Wall Street Tuesday the Dow
-  closed above 50,000 for the first time (50,018.70), Nasdaq −1.5%.
-  - https://www.youtube.com/watch?v=wHDpJ0gTDgE
-  - https://openchronicle.org/2026/11/25/global-news-brief-key-developments-around-the-world-november-25-2026/
+Items 17–55 are drawn from the same day's wire reporting: US Q3 GDP
+revised to 4.3% (BEA); weekly jobless claims 189,000 (DOL); Wall Street
+(Dow +0.3%, Nasdaq −0.6%, CNBC); Macy's 100th Thanksgiving parade
+postponed to Sat 28 Nov (Reuters); Cessna crash off Horn Island, six dead
+(CNN); FCC clears SpaceX orbital data centres (Reuters); CIA-ODNI system
+breach (Reuters); Kyiv seeks €115bn aid for 2027 (DW); EU €50bn quantum
+fund (AFP); Eurostar strike (France 24); UK sabotage warning (Reuters);
+Sporting 2–2 Man United (AFP); Merz warns Russia aims beyond Ukraine
+(Guardian); Poundland fails, 11,000 jobs at risk (BBC); UN Day to End
+Violence Against Women (UN Women); CXMT $4.2bn IPO; Hang Seng −1.1%;
+North Korea gives Swiss envoy 48 hours; SoftBank −14.8%; Seoul trading
+halt; Taiex 38,195; Beijing calls the US claim "a false issue" (Reuters);
+Nikkei 57,011; Malaysia sues Google (Reuters); ESA Hera/DART crater (ESA);
+Karachi building collapse (AP); Sensex +1.8% at 83,938; 481 Dhaka
+factories halted (BGMEA); Ras Tanura refinery claim (Reuters); 80 Hamas
+members killed in a month (Xinhua); Benghazi drone raid, two Libyan
+officers dead (ISW; SBU confirmed the Merkury sinking on 25 Nov);
+Damazin RSF drones kill 19 (Arab News); Monrovia $5.7bn gold deal;
+Enugu NDLEA meth lab bust (Channels); Mexico extradition protest (AP);
+10% tariff on Embraer jets (USTR); Paraná El Niño floods kill 6 (Xinhua);
+Sydney crime syndicate smashed (AFP); Australia inflation 4.9% (ABS).
 
-## Huawei convicted (verdict 24 Nov, reported 25 Nov)
+## Date check (left out — other days' news)
 
-- A Brooklyn jury convicted Huawei and three subsidiaries on 10 of 12 counts
-  — trade-secret conspiracy, bank and wire fraud, Iran sanctions violations,
-  money laundering — acquitting on racketeering and obstruction. Sentencing
-  set for 14 September 2027.
-  - https://complexdiscovery.com/brooklyn-jury-convicts-huawei-of-trade-secret-conspiracy-and-iran-sanctions-crimes-but-rejects-racketeering/
-  - https://newsradio967.iheart.com/content/2026-11-25-huawei-convicted-in-new-york-on-us-trade-secret-theft-charges/
-
-## Space — Shenzhou-24 and Pakistan's first astronaut
-
-- China launched Shenzhou-24 from Jiuquan on 25 Nov carrying Pakistani
-  payload specialist Muhammad Zeeshan Ali — the first Pakistani in orbit and
-  the first foreign astronaut aboard China's Tiangong station; it docked
-  about 3.5 hours after launch.
-  - https://openchronicle.org/2026/11/25/global-news-brief-key-developments-around-the-world-november-25-2026/
-  - https://www.youtube.com/watch?v=wHDpJ0gTDgE
-
-## Macy's 100th Thanksgiving Day Parade postponed
-
-- Macy's postponed its 100th Thanksgiving Day Parade to Saturday 28 Nov
-  because of a nor'easter — the first weather postponement in the parade's
-  history. Announced Wednesday 25 Nov (Reuters, ABC, CBS, NBC).
-  - https://www.rock101.net/2026/11/25/macys-thanksgiving-day-parade-postponed-due-to-weather/
-  - https://parade.com/news/macys-thanksgiving-day-parade-postponed-until-saturday-as-storm-approaches
-  - https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47614D:0-macy-s-thanksgiving-day-parade-in-new-york-city-postponed-due-to-storm-projections/
-
-## Cairo fuel tanker fire — at least 31 killed
-
-- A fuel tanker crash ignited a massive fire on a highway around Cairo on
-  25 Nov, killing at least 31 people.
-  - https://www.lapost.com/category/world
-
-## Also today (ticker)
-
-- Colombia: security forces freed all hostages in a Cartagena supermarket
-  siege; one captor killed.
-- Australia and Solomon Islands signed a security treaty in Canberra.
-- The US proposed new tariffs on Brazil imports, including a 10% duty on
-  aircraft.
-- A second US judge blocked the executive order curtailing birthright
-  citizenship.
-- Yemen's Houthis claimed a strike on Saudi Arabia's Ras Tanura refinery.
-  - https://www.youtube.com/watch?v=wHDpJ0gTDgE
-  - https://principia.news/e/2026-11-25
-  - https://www.lapost.com/category/world
+- Huawei's Brooklyn verdict (Tue 24 Nov; reported 25 Nov)
+- Dow tops 50,000 for the first time (Tue 24 Nov, close 50,018.70)
+- EU's 22nd Russia sanctions package (Mon 23 Nov)
+- Jensen Huang returns as Nvidia CEO (Mon 24 Nov)
+- Not yet: US Thanksgiving (Thu 26 Nov)
